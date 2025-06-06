@@ -26,4 +26,3 @@ print('Código rodado!')
 
 # SECTION: Inicia uma seção em um recho de código.
 # !SECTION: Termina uma seção em um trecho de código. 
-
